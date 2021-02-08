@@ -1,0 +1,7 @@
+This window object also gives us access to some methods like:
+    1. setTimeout(): Event happens after specified Timeout
+    2. setInterval(): Event happens in specified interval time
+    3. alert(): Will pop up the alert message 
+    4. prompt() : Gives user the option like Yes or No
+    5. open(): Opens the specified URL in new tab
+    6. close(): Closes the current window

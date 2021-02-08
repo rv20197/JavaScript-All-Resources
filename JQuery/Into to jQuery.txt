@@ -1,0 +1,11 @@
+- It is a JavaScript library
+- It is fast, lightweight, and feature rich.
+- It is based on principle "write less, do more".
+- It is supported by all the major browsers.
+
+What can JQuery do?
+- HTML/DOM Manipulations
+- CSS Manipulations
+- Handling HTML Event
+- Effects and animations
+- making AJAX calls

@@ -1,0 +1,21 @@
+Selectors and Filters provide a way of finding and extracting information from web page.
+
+Selectors are used to select the HTML elements using CSS-like selectors.
+
+For example:
+$('p')
+The above statement will select all the HTML elements with the
+paragraph tag and will return it as a list of objects.
+
+$('#topbar') : It will select html element with Id = topbar
+
+$('header section'): This will select all the section elements in the header element
+
+
+Filters are used to refine the results returned from the Selectors.
+
+For example:
+$('p:first')
+
+This ":something" is a filter which selects the first paragraph returned by $('p') selector.
+The above line of code can also be written like this: $('p').first()

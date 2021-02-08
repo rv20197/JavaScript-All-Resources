@@ -1,0 +1,5 @@
+1. JS can add new HTML elements and attributes.
+2. JS can change any HTML elements and attributes in the page.
+3. JS can change all the CSS styles in the page.
+4. JS can remove existing HTML elements and attributes.
+5. JS can add and listen to HTML events like onClick, onScroll, etc...

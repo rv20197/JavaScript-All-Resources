@@ -1,0 +1,19 @@
+The quivalent of JavaScript's innerHTML in jQuery is the html() method.
+We can use the html() method to get content of selected HTML element.
+Thi content can either be text or more HTML elements.
+Syntax:
+To get values: $('selector').html()
+To set values: $('selector').html(childElement) 
+
+
+Add or Remove HTML using JQuery
+var list_item = "<l1>First item</l1>"
+var list_item1 = "<l1>First item1</l1>"
+var list_item2 = "<l1>First item2</l1>"
+var list_item3 = "<l1>First item3</l1>"
+list.append(list_item,list_item1,list_item2,list_item3)
+// list.remove()
+$('l1:first').remove()
+$('l1:first').remove()
+$('l1').last().remove()
+$('l1').eq(2).remove()

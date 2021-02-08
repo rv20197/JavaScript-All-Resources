@@ -1,0 +1,12 @@
+There are two ways we can get Element style value:
+
+var selectedElement = getElementById('selector')/querySelector('selector)
+
+
+Inline Styles:
+Syntax: selectedElement.style.{inline-style-property};
+For example: selectedElement.style.width
+
+CSS File:
+Syntax: window.getComputedStyle(selectedElement).{style-property-name}
+For example: window.getComputedStyle(selectedElement).width

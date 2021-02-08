@@ -1,0 +1,8 @@
+1. Change: The Change Event is triggered when the content of an input 
+field is Changed or when the user select a value from the dropdown etc.
+
+2. Focus: The focus event is triggered when input field is focused by the user.
+
+3. Blur: The blur event is triggered when input field loses focus.
+
+4. Submit: The submit event is triggered when submit button is clicked by the user.

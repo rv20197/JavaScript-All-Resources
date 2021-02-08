@@ -1,0 +1,10 @@
+#countdown{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#bg_img{
+    width: 100%;
+}

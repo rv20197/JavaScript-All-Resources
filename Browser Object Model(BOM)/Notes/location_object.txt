@@ -1,0 +1,10 @@
+The location object can be used to get the details of the current page address.
+It can also redirect the browser to a new page in the same browser tab.
+
+Commands:
+- window.location: Location details
+- window.location.href: link of the page
+- window.location.hostname: Returns the host name
+- window.location.pathname: Returns the path of the webpage after the hostname
+- window.location.search: Returns everything after the ? (The search query)
+- window.location.assign: Loads the assigned webpage in same tab

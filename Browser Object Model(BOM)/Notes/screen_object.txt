@@ -1,0 +1,10 @@
+The JavaScript screen object holds information of the browser screen.
+It can be used to display screen width, height, availableWidth, availableheight,
+colorDepth, pixelDepth etc..
+
+Commands:
+- screen()
+- screen.width()
+- screen.availWidth()
+- screen.height()
+- screen.availHeight()

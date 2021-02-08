@@ -1,0 +1,17 @@
+The Mouse Events are triggered when the different mouse keys are presses and/or released.
+
+These are the mouse events available:
+    1. mousedown: Triggered when the either left,right or middle mouse key is pressed on the HTML element.
+    
+    2. mouseup: Triggered when the either left,right or middle mouse key is released after the mousedown event.
+    
+    3. click: Triggered when the left mouse button is pressed and released on the same HTML element,
+              it requires the mousedown and mouseup event to happen before click event.
+    
+    4. dbclick: Triggered when left mouse button is clicked twice on the same HTML element.
+    
+    5. mouseover: Triggered when the mouse pointer enter the HTML element, and its child elements.
+    
+    6. mouseenter: Triggered when the mouse pointer enters the HTML element.
+    
+    7. mousemove: Triggered every time the mouse pointer is moved over the HTML element.

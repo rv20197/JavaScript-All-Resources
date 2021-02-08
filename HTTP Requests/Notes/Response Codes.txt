@@ -1,0 +1,9 @@
+200 - It represents "SUCCESS" which means the request was successful and data is received by at the frontend.
+
+400 - It represents "Bad request" which means that the backend did not understand the request.
+
+401 - It represents "Unauthorized" which means that the user is not allowed to access the response data.
+
+404 - It represents "NOT FOUND" which means that the url is not found by the backend.
+
+500 - It represents "Something went wrong" which means Something failed at the backend and the request cannot be completed.

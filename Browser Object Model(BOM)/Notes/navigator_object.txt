@@ -1,0 +1,7 @@
+The navigator object contains the information about the browser
+where your application is running.
+
+Commands:
+- window.navigator
+- navigator.userAgent
+- navigator.online

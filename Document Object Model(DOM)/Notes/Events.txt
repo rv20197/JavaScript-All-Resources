@@ -1,0 +1,11 @@
+When some action happens in the webpage,
+that action is called event.
+
+There are two ways we can handle events:
+    1. Using Events Properties
+        syntax: selectedElement.{eventProperty} = function() {}
+        eg : selectedElement.onclick = function() {}
+
+    2. Using addEventListener().
+        syntax: selectedElement.addEventListener({eventName},function() {})
+        eg: selectedElement.addEventListener('click', function() {})

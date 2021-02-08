@@ -1,0 +1,17 @@
+Regex in JavaScript:
+To define regular expression in JavaScript there are two ways:
+- First, is the one we have learnt so far.
+    Syntax: /{pattern}/{flags}
+- Second, is the inbuilt regular expression class.
+ (ONLY USE WHEN PATTERN IS GENERATED DYNAMICALLY OR ENTERED BY USER)
+    Syntax: new RegExp("pattern","flags")
+
+
+Regex Methods in JavaScript:
+
+- str.search(pattern): It returns the string position of the first match.
+- pattern.test(str): It returns true if there is a match and returns false if there is no match.
+- str.match(pattern): It returns the matched string. If the flag is not set to global then  it returns only the first match.
+                      But if the flag is set to global then it returns an array of matches.
+
+NOTE: (.) will match any characters

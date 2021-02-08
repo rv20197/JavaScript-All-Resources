@@ -1,0 +1,9 @@
+AJAX is a short form for the Asynchcronous JavaScript And XML. It allows web pages to be updated
+asynchcronously by exchanging data with the backend. This makes it possible to update parts of webpage,
+without reloading the whole page.
+
+Initially AJAX was used to send and receive XML because that was how the data was received from the backend in old days.
+But now it can also be used to send/receive JSON Objects, which is pretty common these days.
+
+AJAX uses a browser built-in XMLHttpRequest object to make requests to the backend server.
+This gave a simple and standard way to make HTTP requests from JavaScript to get content and update HTML page.

@@ -1,0 +1,5 @@
+The JavaScript history object represents an array of URLs visited by user.
+
+It gives us the following two methods:
+- window.history.back(): It loads the previous page from the browser history.
+- window.history.forward(): It loads the next page from the browser history.

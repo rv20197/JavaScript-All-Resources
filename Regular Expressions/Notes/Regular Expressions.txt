@@ -1,0 +1,24 @@
+A regular expression is an object that describes a pattern of characters.
+It allows us to search for specific pattern of text using the defined patterns.
+
+For example:
+- To check whether a given string is valid email or not.
+- To check that an entered username should only contain alphabets and numbers.
+
+Syntax for regular expressions:
+/pattern-string/flags
+
+- (pattern-string) is where you define what strings this pattern should match.
+
+- (/) represents the start and end of (pattern-string)
+
+- (flags) are used to define whether you want the search to be case-sensitive or case-insensitive,
+or whether you want just the first result of all the results.
+
+Types of flags:
+g : Returns all the matches (GLOBAL)
+m : ^ and $ match start/end of line (MULTI LINE)
+i : case insensitive
+y : Proceed matching from where previous match ended only (STICKY)
+u : Match with unicode (UNICODE)
+s : Dot matches newline (SINGLE LINE)

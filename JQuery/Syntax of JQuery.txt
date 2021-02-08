@@ -1,0 +1,6 @@
+This is the syntax to use JQuery
+$(selector).method()
+
+- The "$" sign is used to access jQuery.
+- The "selector" is used to find HTML elements.
+- The "method()" is used to perform some action in the selected elements.

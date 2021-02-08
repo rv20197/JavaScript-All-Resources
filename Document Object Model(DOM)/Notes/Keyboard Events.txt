@@ -1,0 +1,7 @@
+The Keyboard events are triggered when the user clicks a key
+from the keyboard.
+
+There are 3 keyboard events:
+    1. keydown: It is triggered when any key is pressed on the keyboard.
+    2. keyup: It is triggered when any key is released after it's keydown event.
+    3. keypress: It is triggered when any key except Shift, Function, CapsLock is in pressed position.

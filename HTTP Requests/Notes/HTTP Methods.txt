@@ -1,0 +1,9 @@
+GET : It is used to get some data from the backend. The data can be a JSON Object or a JSON Array.
+
+POST : It is used to create new data entries on the backend. It accepts some data in the request and
+       takes that data to the backend for the creation.
+
+PUT : It is used to update an existing data entry on the backend. It accepts some data in the request 
+      and takes that data to the backend for updation.
+
+DELETE : It is used to DELETE and existing data entry on the backend.

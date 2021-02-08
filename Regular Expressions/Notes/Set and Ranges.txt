@@ -1,0 +1,13 @@
+Set and ranges are represented by several characters inside square brackets [...].
+This just means to search for any value among given values.
+It has two variations:
+- First, is to write it like this [ABC]. It means any of these 3 characters will be matched. This is called set.
+    For example:
+        String: Air Birm Circle.
+        Pattern: [ABC]irm
+
+- Second, square brackets may also contain character ranges. [A-Z] is a character in range from A to Z,
+  and [0-9] is a digit from 0 to 9.
+    For example:
+        String: Same Name Fame Game
+        Pattern: [A-Z]ame

@@ -1,0 +1,5 @@
+We can use the event name followed by parenthesis.
+Syntax:
+$('selector').event-name(funtion(){
+    // Do something when event is triggered
+})

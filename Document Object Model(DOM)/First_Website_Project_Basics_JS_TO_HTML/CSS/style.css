@@ -1,0 +1,143 @@
+ /* Home Page Styling */
+body
+{
+    background: grey;
+    margin: 0;
+}
+
+.container_1{
+    width: 800px;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 0px 9px 13px 5px;
+}
+
+.header{
+    padding: 45px 0 20px 40px;
+}
+
+.menu{
+    background: crimson;
+    padding: 6px 0 6px 40px;
+}
+
+.menu a{
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.menu a:hover{
+    color: whitesmoke;
+}
+
+aside{
+    float: left;
+    width : 120px;
+    padding: 30px 0 0 40px;
+}
+
+h1{
+    margin: 0px;
+    color: burlywood;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.main{
+    margin: 0 0 0 180px;
+    padding: 35px 40px 30px 0;
+    color: darksalmon;
+    font-family: cursive;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: justify;
+}
+
+.main a:hover{
+    color: wheat;
+}
+
+footer{
+    padding: 6px 40px 6px 40px; /* Top Right Bottom Left */ 
+    background: indianred;
+    font-family: "Lucida Sans";
+    color: lightblue;
+    font-size: 10px;
+    text-align: right;
+}
+
+footer a{
+    text-decoration: none;
+    color: linen;
+}
+
+.title_link{
+    text-decoration: none;
+    font-size: 30px;
+    color: blueviolet;
+}
+
+.separator{
+    color: black;
+    font-size: 10px;
+}
+
+#home_image img{
+    width: 100%;
+}
+
+
+/* About Page Styling */
+
+#about_page #home_image img{
+    width: 60%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 3px;
+}
+
+#about_page #profile_info{
+    float: right;
+    width: 36%;
+}
+
+#about_page .description{
+    clear: both;
+}
+
+/* Contact Page Styling */ 
+
+#contact_page #form{
+    width: 520px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+}
+
+#contact_page #contact_heading{
+    margin-left: 16px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+
+#contact_page #form input{
+    width: 100%;
+    border-radius: 5px;
+    height: 15px;
+}
+
+#contact_page #form #message_textarea{
+    width: 100%;
+    border-radius: 5px;
+    margin: 0px;
+    height: 174px;
+}
+
+#contact_page #form #submit_message{
+    height: 25px;
+    width: 100%;
+    font-weight: bold;
+}

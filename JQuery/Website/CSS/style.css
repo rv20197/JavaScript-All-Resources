@@ -1,0 +1,40 @@
+#add_item #update_item #remove_item {
+    font-size: 24px;
+    padding: 12px 24px;
+    margin-right: 16px;
+    border-radius: 8px;
+    border: 1px solid black;
+    outline: none;
+    
+}
+
+#todo_list{
+    font-size: 24px;
+    padding: 12px 24px;
+    margin-right: 16px;
+    border-radius: 8px;
+    border: 1px solid black;
+    outline: none;
+}
+
+#todo_input{
+    font-size: 24px;
+    padding: 12px 24px;
+    margin-right: 16px;
+    border-radius: 8px;
+    border: 1px solid black;
+    outline: none;
+}
+
+ul > p{
+    font-size: 24px;
+    padding: 12px 24px;
+    margin-right: 16px;
+    border-radius: 8px;
+    border: 1px solid black;
+    outline: none;
+}
+
+.big_font{
+    font-size: 35px;
+}

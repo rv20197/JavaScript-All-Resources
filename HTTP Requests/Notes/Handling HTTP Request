@@ -1,0 +1,22 @@
+                    "readyState" Property
+The XMLHTTPRequest object gives us access to another Property called readyState.
+The readyState Property holds the status of the XMLHTTPRequest.
+
+These are the available status for the request:
+- UNSENT : It means  that the request has been initiated but open() not called yet. 
+            It is represented by the value 0.
+
+- OPENED : It means that open() has been called. It is represented by the value 1.
+
+- HEADERS RECEIVED: It means that send() has been called. It is represented by the value 2.
+
+- LOADING: It means that the request is being processed. It is represented by the value 3.
+
+- DONE: It means that the request is completed and the response is ready. It is represented by the value 4.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+                    "onreadystatechange" Property
+
+The XMLHTTPRequest also gives us access to another Property called onreadystatechange.
+The onreadystatechange Property defines a function to be executed when the readyState changes.

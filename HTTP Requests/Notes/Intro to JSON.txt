@@ -1,0 +1,18 @@
+JSON stands for Javascript Onject Notation
+
+It is basically a text format that makes it easy to share data between clients and servers. 
+Its origin is based on how Javascript object works so that's why it looks like a Javascript object.
+
+It is widely used across many languages like C, Ruby, Python, PHP etc.
+
+NOTE: JSON CANNOT HOLD UNDEFINED OR FUNCTION 
+        - JSON will just ignore the UNDEFINED/FUNCTION Key:Value Pair
+
+
+It accepts :
+- String
+- Number
+- object
+- Boolean
+- Null
+- Array

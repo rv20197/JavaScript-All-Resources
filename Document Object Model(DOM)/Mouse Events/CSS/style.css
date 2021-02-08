@@ -1,0 +1,24 @@
+#top_button{
+    margin-left: 50%;
+}
+#over{
+    background-color: brown;
+}
+
+#enter{
+    background-color: aqua;
+}
+
+#move{
+    background-color: violet;
+}
+
+h3{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+p{
+    text-align: center;
+    background-color: chocolate;
+}

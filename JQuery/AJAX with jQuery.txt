@@ -1,0 +1,7 @@
+jQuery also supports AJAX calls and it gives us access to methods to make HTTP calls.
+
+Syntax:
+$.get(URL,callback);
+The callback function is called when the request is completed.
+You don't have to create XMLHTTPrequest objects or listen to status changes.
+jQuery handles everything.

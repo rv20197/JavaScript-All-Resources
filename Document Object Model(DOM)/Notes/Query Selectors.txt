@@ -1,0 +1,7 @@
+Query Selectors allow you to use CSS Selectors to Select HTML elements.
+It is the new way in JS to Select HTML elements.
+
+There are 2 such Selectors:
+    1. querySelector(): It will return only the first occurence present in the given class/id of the CSS.
+    2. querySelectorAll(): It will return all the occurences present in the given class/id of the CSS.
+    

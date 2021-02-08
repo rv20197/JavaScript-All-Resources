@@ -1,0 +1,21 @@
+Create a website for:
+NOTE: You may need to make the API calls
+1. Emoji Maker where a user has the freedom of:
+	- Color selection where circle is selected automatically.
+	- Eyes Selection
+	- Facial Expression Selection
+2. Quiz App:
+	- Few MCQ questions
+	- Selection of atleast one option is mandatory
+	- Submit button will generate the score and can store in local machine
+
+3. Video Playing Page:
+	- Play the selected out of few avaiable
+	- Change the description as per the selected video
+
+4. Multi-Step Form:
+	- Mandatory fields should have (*)
+	- Data should retain even if we move to next step
+	- Data validation is must
+	- Store the data in local machine
+	

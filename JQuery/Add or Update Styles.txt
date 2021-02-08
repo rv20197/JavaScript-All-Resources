@@ -1,0 +1,20 @@
+To get CSS of an HTML element, we can use the css() method.
+It accepts the css property name as an argument and it returns the value of the first matched HTML element.
+
+Syntax:
+$('selector').css("property-name");
+
+Example:
+$("body").css('background-color')
+
+$("body").css('background-color','blue')
+
+$("section").css({
+    'font-size':'30px',
+    'color':'red'})
+
+$("button").addClass("big_font")
+
+$("button").removeClass("big_font")
+
+$("button").toggleClass("big_font") // If class is present then remove it and if not present then add it

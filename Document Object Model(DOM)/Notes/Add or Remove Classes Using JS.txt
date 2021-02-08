@@ -1,0 +1,8 @@
+The modern browsers gives us access to a property called "classList".
+
+This classList holds all the classes of an HTML element.
+
+Add Class:
+    We can use the method add().
+    Syntax: selectedElement.classList.add('MyClass')
+    Example: selectedElement.classList.add('show')
